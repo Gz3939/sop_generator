@@ -1,0 +1,2 @@
+# sop_generator
+一個基於Streamlit的標準作業程序(SOP)生成系統，可以讓您輕鬆創建包含圖片和步驟說明的SOP文檔
